@@ -11,7 +11,7 @@ certifi==2018.11.29       # via requests
 chardet==3.0.4            # via requests
 click==7.0                # via pip-tools, safety
 diff-cover==1.0.6
-django==2.1.5
+django==2.2
 djangorestframework==3.9.0
 docutils==0.14            # via readme-renderer
 dodgy==0.1.9              # via prospector
